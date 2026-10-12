@@ -1,4 +1,5 @@
 #Task-2:
+
 SQL Injection Detection System
 
 A Flask-based security dashboard that detects suspicious SQL-like input, identifies potential risks, and records security events for review.
